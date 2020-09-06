@@ -1,3 +1,6 @@
+Packaging GG
+============
+
 This document is for Linux packagers.  If you want to make a Windows or Mac OS
 X installer, build the "package" target in either the MSVC or the XCode
 project created by CMake.  See INSTALLING for information on how to create

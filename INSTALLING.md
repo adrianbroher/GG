@@ -1,3 +1,6 @@
+Installing GG
+=============
+
 GG uses CMake to generate its build system.  CMake just creates build files
 for you to use with your preferred build tool (GNU Make, MSVC Project files,
 etc.).
